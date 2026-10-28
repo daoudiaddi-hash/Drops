@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "after-effects": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/after-effects/SKILL.md",
+      "computedHash": "9db077d9664f5c45157c53b754d3c72bb346999a260c63d3d4892745a3eefd02"
+    },
     "animate": {
       "source": "emilkowalski/skills",
       "sourceType": "github",
@@ -24,6 +30,12 @@
       "sourceType": "github",
       "skillPath": "skills/animation-performance/SKILL.md",
       "computedHash": "b68ba704106e27b1f83df0cb817e09ec947abb76825d86eabdee2954b6c1bb84"
+    },
+    "animation-principles": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-principles/SKILL.md",
+      "computedHash": "140b00a44e08aa7649fb1cce1c48670ff2e76f3889fbac0b5311cc5bb818d7b7"
     },
     "animation-vocabulary": {
       "source": "emilkowalski/skills",
@@ -49,6 +61,12 @@
       "skillPath": "skills/ask-sonner/SKILL.md",
       "computedHash": "8bd257b845985f4b35b603b510a126604176521094af79c4b7347ffeb8a8f7ab"
     },
+    "beat-sync-editing": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/beat-sync-editing/SKILL.md",
+      "computedHash": "4089a0b65782c529ebd4fe9a576588fb51cf716573b4d683b0494e6554e61e03"
+    },
     "brand-intake": {
       "source": "charlie947/motion-graphics-skills",
       "sourceType": "github",
@@ -61,6 +79,12 @@
       "skillPath": "skills/break-ui/SKILL.md",
       "computedHash": "60ada67662925f4df5e3c6ff41cac3ab241b66f8898100a5ffcd7ba7196cb868"
     },
+    "color-motion": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/color-motion/SKILL.md",
+      "computedHash": "7c05f7d35427d5fbe2fd1b5b6c0622252314a049797085fce085085cbf4c3e6e"
+    },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
@@ -72,6 +96,24 @@
       "sourceType": "github",
       "skillPath": "skills/emil-design-eng/SKILL.md",
       "computedHash": "51f2537e04d15911b41d78e2de24c36a0e26d41beae15e82a954fe5496a5eda9"
+    },
+    "explainer-default": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/explainer-default/SKILL.md",
+      "computedHash": "cd820260b79fdfbbf9bc84172fdca303feeb606a49d2b232500298ee75c460d9"
+    },
+    "explainer-engaging": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/explainer-engaging/SKILL.md",
+      "computedHash": "379f1bb5b8adff04831fe63b6134d1578cf199998ffb290ffc597e0a09a6e511"
+    },
+    "explainer-high-energy": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/explainer-high-energy/SKILL.md",
+      "computedHash": "79ac228cb3cf1f58439a9cd6d1cf7130765933fa38578c23b188afe971e41410"
     },
     "figma": {
       "source": "heygen-com/hyperframes",
@@ -115,6 +157,12 @@
       "skillPath": "skills/launch-video/SKILL.md",
       "computedHash": "f3ea76b69c8e50c2c1d840d02326320225fdf576eb4cb809eec36cfdebc5cf26"
     },
+    "logo-animation": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/logo-animation/SKILL.md",
+      "computedHash": "3bba34771ff84fa7e68dc8026e195aab411a82b01091c9427fc8f3c8e48e7d99"
+    },
     "loop-cover": {
       "source": "charlie947/motion-graphics-skills",
       "sourceType": "github",
@@ -145,11 +193,35 @@
       "skillPath": "skills/model-showdown/SKILL.md",
       "computedHash": "64efb0a15009cd14766292c7bc253ada065e79e50b8fc015ea0dc27292a0c16a"
     },
+    "motion-art-direction": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/motion-art-direction/SKILL.md",
+      "computedHash": "bcba09b729fd3d99b3b1a388c3aaac655a3771b26dc3e8d077a110dfdd9e1631"
+    },
+    "motion-background": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/motion-background/SKILL.md",
+      "computedHash": "99a576ac6549791b410abbc48a18074fed9e7925cf3ee5392108c59ad9e25fa4"
+    },
     "motion-brief-writer": {
       "source": "charlie947/motion-graphics-skills",
       "sourceType": "github",
       "skillPath": "skills/motion-brief-writer/SKILL.md",
       "computedHash": "a32cfd5d6a6905591866d4a5b1636d748d067ec7f2ab4c37a13df7eba503ddb3"
+    },
+    "motion-broll": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/motion-broll/SKILL.md",
+      "computedHash": "7dfd510bd0d467a07c7c12914434c05902bb1b94392ebbc1d2f525cbb8707241"
+    },
+    "motion-design": {
+      "source": "whaleyxbt/claude-motion",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/motion-design/SKILL.md",
+      "computedHash": "4f226339d44e4d34703bc6847ecbb31027fbad7c490d633b3f397e3fc58364c7"
     },
     "motion-effects": {
       "source": "charlie947/motion-graphics-skills",
@@ -168,6 +240,12 @@
       "sourceType": "github",
       "skillPath": "skills/newsletter-promo/SKILL.md",
       "computedHash": "f2461df853e664cf2eed2c8eaa13a5adf518b531b864b4174b02ed813d818f0a"
+    },
+    "object-separation": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/object-separation/SKILL.md",
+      "computedHash": "8086daecb8234a0690859d04c5ac8f510a3d54f2df8b406786429d66a2682dea"
     },
     "pick-ui-library": {
       "source": "emilkowalski/skills",
@@ -211,17 +289,47 @@
       "skillPath": "skills/remotion-to-hyperframes/SKILL.md",
       "computedHash": "35f4cdb6e369a58bfb3683bc242a0391538c1e407fd933bbdf25b9c761253f08"
     },
+    "remotion-video": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-video/SKILL.md",
+      "computedHash": "940885087443f4aa5d3baf6edb4ed25edafea2435b52922e120200b4c1af99ba"
+    },
     "review-animations": {
       "source": "emilkowalski/skills",
       "sourceType": "github",
       "skillPath": "skills/review-animations/SKILL.md",
       "computedHash": "b4e5f0f4fe3e2743c85bf7354108f48a0b9d502cb20ef5c4a9c195da91f93736"
     },
+    "review-loop": {
+      "source": "whaleyxbt/claude-motion",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/review-loop/SKILL.md",
+      "computedHash": "c88f842673772f048ce1ce84aa9fd81b3b6ba470f70e69235ca95a8a3a26fb60"
+    },
+    "shot-composition": {
+      "source": "iart-ai/motion-design-skills",
+      "sourceType": "github",
+      "skillPath": "skills/shot-composition/SKILL.md",
+      "computedHash": "9ff4551d175f951fb443a0680020871eb93c5ae07a0f36a2008ca98e5d0fa324"
+    },
     "slideshow": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
       "skillPath": "skills/slideshow/SKILL.md",
       "computedHash": "2cce5d13b634a742a25e62a1d78366ee97d0bf51a708eb4746e44a0579a3b6a7"
+    },
+    "sound-design": {
+      "source": "whaleyxbt/claude-motion",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/sound-design/SKILL.md",
+      "computedHash": "1c139f4c4548934ed4d2b93b00ed8eeb83493d8ceeda48a0ac08fcaddbb44bad"
+    },
+    "sound-effects": {
+      "source": "Barty-Bart/motion-graphics",
+      "sourceType": "github",
+      "skillPath": "skills/sound-effects/SKILL.md",
+      "computedHash": "9f4ae4b86fb8d8387a6a926e3cbf5f7d2341cabc36a9efeeab3697506774afbb"
     },
     "title-sequence-3d": {
       "source": "charlie947/motion-graphics-skills",
@@ -276,6 +384,12 @@
       "sourceType": "github",
       "skillPath": "skills/web-design-guidelines/SKILL.md",
       "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
+    },
+    "web-sims": {
+      "source": "whaleyxbt/claude-motion",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/web-sims/SKILL.md",
+      "computedHash": "b38643f32b41b94f0e6e5a46bc5c482548fb707a2e039d522e9a6a649f3ee9b2"
     },
     "write-swift": {
       "source": "emilkowalski/skills",
