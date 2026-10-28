@@ -79,6 +79,12 @@
       "skillPath": "skills/pick-ui-library/SKILL.md",
       "computedHash": "5d2a77bf0ecafbda85aa95fb49999b6d77945d9066ec83d970b62e5b388cd686"
     },
+    "product-launch-motion": {
+      "source": "Taurus-Software/product-launch-motion",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "d4c2e73d31213ed484208a3738891cf391369da13a59c29a5817b320c3ee345d"
+    },
     "prompt-master": {
       "source": "nidhinjs/prompt-master",
       "sourceType": "github",
