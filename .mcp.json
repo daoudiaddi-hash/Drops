@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "vinted": {
+      "command": "node",
+      "args": ["tools/mcp/vinted-mcp-cli/dist/mcp.js"]
+    },
+    "vinted-eu": {
+      "command": "npx",
+      "args": ["-y", "vinted-mcp-server@1.0.1"]
+    }
+  }
+}

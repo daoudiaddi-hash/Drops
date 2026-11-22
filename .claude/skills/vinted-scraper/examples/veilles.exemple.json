@@ -1,0 +1,38 @@
+{
+  "ralph-tshirts": {
+    "criteres": {
+      "marques": ["Ralph Lauren", "Polo Ralph Lauren"],
+      "categories": ["Hommes > T-shirts"]
+    },
+    "params": {
+      "attribute_ids[catalog]": "77",
+      "attribute_ids[brand]": "88,4273"
+    },
+    "prix_min": 0,
+    "prix_max": 30.0,
+    "tranches": 6,
+    "filtre": [],
+    "domaine": "fr",
+    "creee_le": "2026-10-20T12:09+02:00"
+  },
+  "ralph-tshirts-m-tbe": {
+    "criteres": {
+      "marques": ["Ralph Lauren", "Polo Ralph Lauren"],
+      "categories": ["Hommes > T-shirts"],
+      "taille": ["M"],
+      "etat": ["Très bon état", "Neuf sans étiquette"]
+    },
+    "params": {
+      "attribute_ids[catalog]": "77",
+      "attribute_ids[brand]": "88,4273",
+      "attribute_ids[size]": "208",
+      "attribute_ids[status]": "2,1"
+    },
+    "prix_min": 0,
+    "prix_max": 30.0,
+    "tranches": 2,
+    "filtre": [],
+    "domaine": "fr",
+    "creee_le": "2026-10-20T12:09+02:00"
+  }
+}
